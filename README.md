@@ -6,5 +6,5 @@ Graduate from Shanghai Jiao Tong University in Electrical and Computer Engineeri
 
 ![jinminhao's github stats](https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&theme=radical)
 
-[linkedIn](https://www.linkedin.com/in/minhao-jin-1328b8164/)
+[LinkedIn](https://www.linkedin.com/in/minhao-jin-1328b8164/)
 
