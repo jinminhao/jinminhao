@@ -15,4 +15,6 @@ Graduate from Shanghai Jiao Tong University in Electrical and Computer Engineeri
 </p>
 
 
-
+<p align="center">
+	<a href="https://github.com/jinminhao"><img src="https://github-profile-trophy.vercel.app/?username=jinminhao&row=1&theme=flat" alt="Blog"></a>
+</p>
