@@ -1,7 +1,7 @@
 # Minhao Jin
 
 
-- :person_frowning: Student. Computer System, AI lover.
+- :blush: ​Student. Computer System, AI lover.
 - :eyeglasses: Coder. C, C++, Java, Python, Golang user.
 - :office: ​Software Engineer Intern at Baidu Inc.
 - :school: ​MSIN @ CMU, BSE @ SJTU majoring in ECE
