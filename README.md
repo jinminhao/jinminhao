@@ -9,7 +9,7 @@ This is Minhao Jin
 - :school: ​MSIN @ CMU, BSE @ SJTU majoring in ECE
 
 <p align="left">
-<img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&theme=radical">
+<img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&theme=radical&count_private=true">
 </p>
 
 <p align="left">
