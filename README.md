@@ -3,7 +3,7 @@
 This is Minhao Jin
 
 
-- :blush: ​Student. Computer System, AI lover.
+- :blush: ​Student. Computer System
 - :eyeglasses: Coder. C, C++, Java, Python, Golang user.
 - :office: ​Software Engineer Intern at Baidu Inc.
 - :school: ​MSIN @ CMU, BSE @ SJTU majoring in ECE
@@ -27,4 +27,3 @@ This is Minhao Jin
   <a><img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a"></a>
   <a><img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a"></a>
 </p>
-
