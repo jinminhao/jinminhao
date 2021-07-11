@@ -22,8 +22,8 @@ This is Minhao Jin
   <a><img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a"></a>
   <a><img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a"></a>
   <a><img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a"></a>
-  <a><img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=FFA500"></a>
-  <a><img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFA500"></a>
-  <a><img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=FFA500"></a>
+  <a><img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=FFA500"></a>
+  <a><img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google&logoColor=white&color=FFA500"></a>
+  <a><img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft&logoColor=white&color=FFA500"></a>
 </p>
 
