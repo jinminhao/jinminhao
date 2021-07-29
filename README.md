@@ -6,7 +6,7 @@ This is Minhao Jin.
 - :blush: ​Student. Computer System
 - :eyeglasses: Coder. C, C++, Java, Python, Golang user.
 - :office: ​Software Engineer Intern at Baidu, Inc.
-- :school: ​MSIN @ CMU, BSE @ SJTU majoring in ECE
+- :school: ​MSIN@CMU, BSc@SJTU majoring in ECE
 
 <p align="left">
 <img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&theme=radical&count_private=true">
