@@ -5,7 +5,7 @@
 
 - :blush: ​Student. Computer System
 - :eyeglasses: Coder. C, C++, Java, Python, Golang user.
-- :office: ​Software Engineer Intern at Baidu, Inc.
+- :office: ​Extern at Baidu, Inc.
 - :school: ​MSIN@CMU, BSc@SJTU majoring in ECE
 
 <p align="left">
@@ -26,4 +26,3 @@
   <a><img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google&logoColor=white&color=FFA500"></a>
   <a><img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft&logoColor=white&color=FFA500"></a>
 </p>
-
