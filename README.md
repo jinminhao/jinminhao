@@ -5,7 +5,7 @@
 
 - :blush: ​Student. Computer System
 - :eyeglasses: Coder. C, C++, Java, Python, Golang user.
-- :office: ​Extern at Baidu, Inc.
+- :office: Extern at  PaddlePaddle, Baidu Inc
 - :school: ​MSIN@CMU, BSc@SJTU majoring in ECE
 
 <p align="left">
