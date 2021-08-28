@@ -5,8 +5,8 @@
 
 - :blush: ​Student. Computer System
 - :eyeglasses: Coder. C, C++, Java, Python, Golang user.
-- :office: Extern at  PaddlePaddle, Baidu Inc
-- :school: ​MSIN@CMU, BSc@SJTU majoring in ECE
+- :office: SDE Extern at  PaddlePaddle, Baidu Inc
+- :school: ​MSIN@CMU, BSE@SJTU majoring in ECE
 
 <p align="left">
 <img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&theme=radical&count_private=true">
