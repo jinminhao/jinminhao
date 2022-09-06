@@ -3,8 +3,8 @@
 
 
 
-- :blush: ​Graduate student. Computer System
-- :eyeglasses: Coder. C, C++, Java, Python, Golang user.
+- :blush: Computer Networks
+- :eyeglasses: C, C++, Java, Python, Golang user
 - :office: SDE Extern at  PaddlePaddle, Baidu Inc
 - :school: ​MSIN@CMU, BSE@SJTU majoring in ECE
 
