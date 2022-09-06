@@ -9,7 +9,7 @@
 - :school: ​MSIN@CMU, BSE@SJTU majoring in ECE
 
 <p align="left">
-<img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&theme=radical&count_private=true">
+<img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true">
 </p>
 <p align="left">
 	<a href="https://www.linkedin.com/in/minhao-jin-1328b8164/"><img src="https://img.shields.io/badge/-Minhao Jin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhao-jin-1328b8164/"></a>
