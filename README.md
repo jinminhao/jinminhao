@@ -3,7 +3,7 @@
 
 
 
-- :blush: Computer Networks
+- :blush: Computer Networks, Machine Learning for system applications, Security & Privacy
 - :eyeglasses: C, C++, Java, Python, Golang user
 - :office: SDE Extern at  PaddlePaddle, Baidu Inc
 - :school: ​MSIN@CMU, BSE@SJTU majoring in ECE
