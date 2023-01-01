@@ -1,8 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-
-
 - :blush: Computer Networks, Machine Learning for system applications, Security & Privacy
 - :eyeglasses: C, C++, Java, Python, Golang user
 - :office: SDE Extern on framework dev at PaddlePaddle, Baidu Inc
