@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - :blush: Computer Networks, Machine Learning for system applications, Security & Privacy
+- :school: PhD student@Princeton, ​MSIN@CMU, BSECE@SJTU
 - :eyeglasses: C, C++, Java, Python, Golang user
-- :office: SDE Extern on framework dev at PaddlePaddle, Baidu Inc
-- :school: ​MSIN@CMU, BSECE@SJTU
+- :office: Previously MLE at Rockfish Data; SWE intern at PaddlePaddle, Baidu Inc
 
 <!-- <p align="left">
 <img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true">
