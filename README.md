@@ -2,8 +2,8 @@
 
 - :blush: Computer Networks, Machine Learning for system applications, Security & Privacy
 - :eyeglasses: C, C++, Java, Python, Golang user
-- :office: SDE Extern on framework dev at PaddlePaddle, Baidu Inc
-- :school: ​MSIN@CMU, BSECE@SJTU
+- :office: Previously MLE at Rockfish Data; SWE intern at PaddlePaddle, Baidu Inc
+- :school: ​PhD student@Princeton, MSIN@CMU, BSECE@SJTU
 
 <!-- <p align="left">
 <img alt="jinminhao's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=jinminhao&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true">
